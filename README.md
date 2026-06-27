@@ -1,6 +1,6 @@
 Data Cleaning with Excel (Power Query)
+    
     PROJECT OVERVIEW
-
 This project was completed as part of my DecodeLabs Data Analytics Internship. The objective was to clean and standardize a transactional dataset using Microsoft Excel Power Query, ensuring that the data was accurate, consistent, and ready for analysis.
 
 Data cleaning is a critical step in every data analysis workflow, as it improves data quality and ensures reliable insights.
@@ -13,6 +13,7 @@ Prepare the dataset for exploratory analysis.
 TOOLS USED
 Microsoft Excel
 Power Query
+
       DATA CLEANING TASKS PERFORMED
 1. Standardization of Missing Values
 Replaced all null values in the Coupon Code column with "Unknown" using the Replace Values feature in Power Query.
@@ -23,6 +24,7 @@ This ensured monetary values were presented in a standard currency format and im
 3. Removal of Unnecessary Spaces
 Used the Trim transformation to remove leading and trailing spaces from text fields.
 This enhanced data quality and improved the accuracy of filtering, grouping, and analysis.
+
      KEY SKILLS DEMONSTRATED
 Data Cleaning
 Power Query
