@@ -10,7 +10,8 @@ Handle missing values.
 Standardize numerical data.
 Improve text consistency.
 Prepare the dataset for exploratory analysis.
-TOOLS USED
+
+     TOOLS USED
 Microsoft Excel
 Power Query
 
