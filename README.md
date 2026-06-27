@@ -26,7 +26,7 @@ This ensured monetary values were presented in a standard currency format and im
 Used the Trim transformation to remove leading and trailing spaces from text fields.
 This enhanced data quality and improved the accuracy of filtering, grouping, and analysis.
 
-     KEY SKILLS DEMONSTRATED
+       KEY SKILLS DEMONSTRATED
 Data Cleaning
 Power Query
 Data Transformation
@@ -34,10 +34,10 @@ Handling Missing Values
 Data Standardization
 Data Quality Improvement
    
-      LEARNING OUTCOMES
+       LEARNING OUTCOMES
 Through this project, I gained practical experience in preparing raw data for analysis using Excel Power Query. I learned the importance of cleaning datasets before performing any analytical tasks and how small inconsistencies can significantly impact analysis results.
 
-Repository Structure
+       Repository Structure
 ├── Dataset.xlsx
 ├── Cleaned_Dataset.xlsx
 └── README.md
